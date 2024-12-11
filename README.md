@@ -1,1 +1,1 @@
-# foodbar
+# FoodieBar
